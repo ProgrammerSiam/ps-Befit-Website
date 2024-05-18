@@ -1,6 +1,6 @@
 ### Demo Screeshots
   <a href="#" target="_blank">
-      <img src="" alt="Project Banner">
+      <img src="https://i.ibb.co/xfm22Jf/befit-website.jpg" alt="Project Banner">
     </a>
 
 ## Prerequisites
@@ -9,18 +9,18 @@ Before you begin, ensure you have met the following requirements:
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
 ## Run Locally
-To run **Befit-Website** locally, run this command on your git bash:
+To run **Coffee-Website** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git https://github.com/ProgrammerSiam/ps-Befit-Website.git
+sudo git clone https://github.com/ProgrammerSiam/ps-Coffee-Website.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/ProgrammerSiam/ps-Befit-Website.git
+git clone https://github.com/ProgrammerSiam/ps-Coffee-Website.git
 ```
 
 
@@ -32,6 +32,7 @@ git clone https://github.com/ProgrammerSiam/ps-Befit-Website.git
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/programmersiam/) 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ProgrammerSiam) 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehedihasansiam.com@gmail.com)
+
 
 
 
